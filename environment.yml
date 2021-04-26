@@ -9,5 +9,6 @@ dependencies:
   - pandas
   - pip
   - python
+  - scipy
   - pip:
       - poppy
