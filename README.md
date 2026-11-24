@@ -28,10 +28,8 @@ iva.laginja@oca.eu
   the email you used to create your GitHub account
   
 3. Install conda (optional):
-  - On **Windows**:
-    1. Go to the Miniconda website and install miniconda for Python 3.7 for your respective OS: https://docs.conda.io/en/latest/miniconda.html
-    2. Make sure to add Miniconda to your PATH during the installation, even if it is marked as not recommended. This is required so that Git Bash can recognise it (see next point).
-    3. Install Git Bash from here: https://gitforwindows.org/
-    
-  - On **MacOS**/**Linux**:
-    1. Go to the Miniconda website and install miniconda for Python 3.7 for your respective OS: https://docs.conda.io/en/latest/miniconda.html
+
+   1. Go to the Anaconda website and install miniconda (not Anaconda) for your respective OS: https://www.anaconda.com/docs/getting-started/installation
+   2. Make sure to add miniconda to your PATH during the installation, even if it is marked as not recommended. This is required so that Git Bash can recognize it (see next point).
+
+I highly recommend installing miniconda instead of the full Anaconda distribution. It is much smaller and will save you a lot of disk space, and you have to think much less about licenses. For a brief difference between Anaconda and Miniconda, see https://www.anaconda.com/docs/getting-started/concepts/anaconda-or-miniconda
